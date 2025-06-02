@@ -1,3 +1,5 @@
+//demonstration of an constructor.
+
 class Box{
 
     int l, b, h;

@@ -1,3 +1,5 @@
+//demonstration of basic java program.
+
 class rectangle{
     int l, b, ar;
 

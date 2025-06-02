@@ -1,3 +1,5 @@
+// demonstration of passing objects as arguements.
+
 import java.util.Scanner;
 
 class complex{
